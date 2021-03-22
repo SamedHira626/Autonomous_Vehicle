@@ -1,7 +1,11 @@
-# Cukurova Hydromobile Team (some works of our car)
+# Cukurova Hydromobile Team (some works of our car) we aim to participate to Teknofest Autonomous Vehicle Competition in September 2021
 
 VIDEO OF REAL-TIME LANE TRACKING SYSTEM (DOWNLOAD FROM THE LINK BELOW TO WATCH)
 https://user-images.githubusercontent.com/42544569/111962392-4c86d680-8b03-11eb-8a35-0b31c1df3cfa.mov
+
+
+
+
 
 
 -An image of our car
