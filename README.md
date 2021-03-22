@@ -2,8 +2,8 @@
 
 (We aim to participate to Teknofest Autonomous Vehicle Competition in September 2021)
 
-VIDEO OF REAL-TIME LANE TRACKING SYSTEM (DOWNLOAD FROM THE LINK BELOW TO WATCH)
-https://user-images.githubusercontent.com/42544569/111962392-4c86d680-8b03-11eb-8a35-0b31c1df3cfa.mov
+VIDEO OF REAL-TIME LANE TRACKING SYSTEM (CLICK THE LINK BELOW TO WATCH)
+https://drive.google.com/file/d/1UtyUQ9UNLlxnG1spG0Kn7BtYEG_ns_He/view
 
 
 
