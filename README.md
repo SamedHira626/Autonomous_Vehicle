@@ -1,4 +1,4 @@
-# Cukurova Hydromobile Team (some works of our car) 
+# Cukurova Hydromobile Team Autonomous Vehicle (some works of our car) 
 
 (We aim to participate to Teknofest Autonomous Vehicle Competition in September 2021)
 
