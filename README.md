@@ -10,7 +10,7 @@ https://drive.google.com/file/d/1UtyUQ9UNLlxnG1spG0Kn7BtYEG_ns_He/view
 
 
 
--An image of our car
+-An image of our car (of course we haven't finished yet)
 
 ![IMG-5810](https://user-images.githubusercontent.com/42544569/111986849-82d24f00-8b1f-11eb-8338-8fbf19c3a3b9.jpg)
 
