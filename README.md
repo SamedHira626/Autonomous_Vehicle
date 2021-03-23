@@ -1,5 +1,5 @@
 # Cukurova Hydromobile Team Autonomous Vehicle (some works of our car) 
-Team website: http://cuhidromobil.epizy.com
+Team website: http://cuhidromobil.epizy.com / https://www.linkedin.com/company/cukurova-hydromobile-team/posts/
 
 (We aim to participate to Teknofest Autonomous Vehicle Competition in September 2021)
 
