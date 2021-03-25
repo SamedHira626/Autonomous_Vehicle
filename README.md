@@ -5,10 +5,10 @@ LinkedIn account of the team: https://www.linkedin.com/company/cukurova-hydromob
 
 (We aim to participate in Teknofest Autonomous Vehicle Competition in September 2021)
 
-VIDEO OF REAL-TIME LANE TRACKING SYSTEM (CLICK THE LINK BELOW TO WATCH)
+**VIDEO OF REAL-TIME LANE TRACKING SYSTEM (CLICK THE LINK BELOW TO WATCH)**
 https://drive.google.com/file/d/1UtyUQ9UNLlxnG1spG0Kn7BtYEG_ns_He/view
 
-VIDEO OF SIMULATION IN UNITY 3D (CLICK THE LINK BELOW TO WATCH)
+**VIDEO OF SIMULATION IN UNITY 3D (CLICK THE LINK BELOW TO WATCH)**
 https://drive.google.com/file/d/1HHDKgYsOoMCgsjKVnGGCfgGrBuRS2qm6/view?usp=sharing
 
 
