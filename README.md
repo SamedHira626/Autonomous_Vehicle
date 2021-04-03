@@ -13,17 +13,6 @@ https://drive.google.com/file/d/1UtyUQ9UNLlxnG1spG0Kn7BtYEG_ns_He/view
 
 
 
-**VIDEO OF SIMULATION IN UNITY 3D (CLICK THE LINK BELOW TO WATCH)**
-https://drive.google.com/file/d/1HHDKgYsOoMCgsjKVnGGCfgGrBuRS2qm6/view?usp=sharing
-![Unity_simulation](https://user-images.githubusercontent.com/42544569/112518364-5c741400-8daa-11eb-8d29-084aeabe3cc1.JPG)
-
-
-
-
-
-
-
-
 -Steering Control System
 
 
