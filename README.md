@@ -7,7 +7,10 @@ LinkedIn account of the team: https://www.linkedin.com/company/cukurova-hydromob
 
 **VIDEO OF REAL-TIME LANE TRACKING SYSTEM (CLICK THE LINK BELOW TO WATCH)**
 https://drive.google.com/file/d/1UtyUQ9UNLlxnG1spG0Kn7BtYEG_ns_He/view
-![lane_tracking](https://user-images.githubusercontent.com/42544569/112762943-0c47bc80-900b-11eb-8930-4ce727e38a81.JPG)
+
+![car1](https://user-images.githubusercontent.com/42544569/113494783-555cac80-94f4-11eb-9352-f3bfb739590d.png)
+
+
 
 ![car](https://user-images.githubusercontent.com/42544569/112736679-8cb3e200-8f65-11eb-8db3-0534e0083457.jpg)
 
