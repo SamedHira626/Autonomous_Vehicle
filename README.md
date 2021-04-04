@@ -1,4 +1,4 @@
-# Cukurova Hydromobile Team Autonomous Vehicle (some works of our car) 
+# Cukurova Hydromobile Team Autonomous Vehicle  
 Team website: http://cuhidromobil.epizy.com 
 
 LinkedIn account of the team: https://www.linkedin.com/company/cukurova-hydromobile-team/posts/
