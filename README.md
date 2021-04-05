@@ -24,10 +24,9 @@ https://drive.google.com/file/d/1UtyUQ9UNLlxnG1spG0Kn7BtYEG_ns_He/view
 
 -Results of Traffic Sign Detection
 
-
-![signs_1](https://user-images.githubusercontent.com/42544569/111962356-44c73200-8b03-11eb-9b24-04715136eb3a.jpeg)
-![signs_2](https://user-images.githubusercontent.com/42544569/111962383-4a247c80-8b03-11eb-8d19-6d708fde7884.jpeg)
-
+![1](https://user-images.githubusercontent.com/42544569/113623352-e81d5880-9666-11eb-8660-5913c26e8989.png)
+![2](https://user-images.githubusercontent.com/42544569/113623357-ea7fb280-9666-11eb-92a7-4b0e5745ef85.png)
+![3](https://user-images.githubusercontent.com/42544569/113623361-ebb0df80-9666-11eb-8544-49fc0e8cbfc1.png)
 
 
 
