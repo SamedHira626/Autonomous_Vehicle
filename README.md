@@ -3,7 +3,7 @@ Team website: http://cuhidromobil.epizy.com
 
 LinkedIn account of the team: https://www.linkedin.com/company/cukurova-hydromobile-team/posts/
 
-(we aim to participate in Teknofest Autonomous Vehicle Competition in September 2021)
+(We aim to participate in Teknofest Autonomous Vehicle Competition in September 2021)
 
 **VIDEO OF REAL-TIME LANE TRACKING SYSTEM (CLICK THE LINK BELOW TO WATCH)**
 https://drive.google.com/file/d/1UtyUQ9UNLlxnG1spG0Kn7BtYEG_ns_He/view
