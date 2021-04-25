@@ -9,7 +9,6 @@ class MotorProcessing:
 		GPIO.setup(self.leftPin, GPIO.OUT)
 		GPIO.setup(self.rightPin, GPIO.OUT)
 		
-
 	def motorFunc(self, rightCase, leftCase):
 		if leftCase == True and rightCase == False:
 			GPIO.output(self.rightPin, GPIO.LOW)
