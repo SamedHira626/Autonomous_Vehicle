@@ -4,14 +4,14 @@ Team website: http://cuhidromobil.epizy.com
 LinkedIn account of the team: https://www.linkedin.com/company/cukurova-hydromobile-team/posts/
 
 :red_envelope:**We won a prize in PROCENGA competition (CLICK THE LINK BELOW TO SEE)**
-https://www.linkedin.com/feed/update/urn:li:activity:6801837900255252480/
+https://www.linkedin.com/feed/update/urn:li:activity:6801837900255252480/ :red_envelope:
 
 
 (We aim to participate in Teknofest Autonomous Vehicle Competition in September 2021, therefore, leftSideCamera.py and rightSideCamera.py cannot be shared)
 
-**VIDEO OF REAL-TIME LANE TRACKING SYSTEM (CLICK THE LINK BELOW TO WATCH)**
+:red_envelope:**VIDEO OF REAL-TIME LANE TRACKING SYSTEM (CLICK THE LINK BELOW TO WATCH)**
 
-:red_envelope: https://drive.google.com/file/d/1UtyUQ9UNLlxnG1spG0Kn7BtYEG_ns_He/view
+ https://drive.google.com/file/d/1UtyUQ9UNLlxnG1spG0Kn7BtYEG_ns_He/view :red_envelope:
 
 ![car1](https://user-images.githubusercontent.com/42544569/113494783-555cac80-94f4-11eb-9352-f3bfb739590d.png)
 
