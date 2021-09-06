@@ -7,7 +7,7 @@ LinkedIn account of the team: https://www.linkedin.com/company/cukurova-hydromob
 https://www.linkedin.com/feed/update/urn:li:activity:6801837900255252480/ :red_envelope:
 
 
-(We aim to participate in Teknofest Autonomous Vehicle Competition in September 2021, therefore, leftSideCamera.py and rightSideCamera.py cannot be shared)
+(We aim to participate in Teknofest Autonomous Vehicle Competition in September 2022, therefore, leftSideCamera.py and rightSideCamera.py cannot be shared)
 
 :red_envelope:**VIDEO OF REAL-TIME LANE TRACKING SYSTEM (CLICK THE LINK BELOW TO WATCH)**
 
